@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/*
+em HTML eh id = em eh #
+em HTML eh class = CSS EH .
+
+
+
+*/
+body {
+
+    background-color: rgb(205, 255, 203);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: rgb(4, 109, 0);;
+}
+#principal { text-align: center;
+    background-color: rgb(4, 109, 0);
+color: white;
+
+
+
+}
+
+h2 {
+    color: rgb(51, 109, 71);
+}
+.basico {
+    color: greenyellow;
+
+}
+.Zawarudo {
+    color: chartreuse;
+}
+
+
+.MUDAMUDA {
+    color: greenyellow;
+
+}
+.destaque {
+background-color:  #c5c56070;
+
+}
